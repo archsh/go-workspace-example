@@ -1,3 +1,3 @@
-module example/apps/albiero
+module example/apps/albireo
 
 go 1.18
